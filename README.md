@@ -1,2 +1,2 @@
-# P-gina-Senati
+# Página-Senati
 Es una Página creada en el Curso de Fundamentos de Programación Web
